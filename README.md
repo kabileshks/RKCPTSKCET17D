@@ -2,7 +2,7 @@
 
 blog site.rar file contains 2 htmls pages and 1 css style sheet
  
-HTML page 1 is for View our recent articles (referred from www.explorebetter.co.in (Developed by my Myself and hosted by godaddy) and also Like , Share and Comment Options with Responsive Buttons were included below each of our posts/articles.
+HTML page 1 is to View our recent articles (referred from www.explorebetter.co.in - Developed by my Myself and hosted by godaddy) and also Like , Share and Comment Options with Responsive Buttons were included below each of our posts/articles.
 
 HTML page 2 is for Login in / register account 
 
